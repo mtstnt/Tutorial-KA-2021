@@ -1,3 +1,4 @@
+package nov_6;
 import java.util.*;
 
 public class SoalCT2 {
